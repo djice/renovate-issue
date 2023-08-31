@@ -22,7 +22,7 @@
             <groupId>io.circe</groupId>
             <!--  scala.binary.version property comes from parent   -->
             <artifactId>circe-parser_2.13</artifactId>
-            <version>0.14.0</version>
+            <version>0.14.6</version>
         </dependency>
 
     </dependencies>
